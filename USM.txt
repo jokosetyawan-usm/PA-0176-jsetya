@@ -1,1 +1,4 @@
 "Uiniversitas Semarang"
+stash@{0}: WIP on master: 993934b branch baru
+stash@{1}: WIP on master: 993934b branch baru
+stash@{2}: WIP on Master: 993934b branch baru
